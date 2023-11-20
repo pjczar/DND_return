@@ -93,6 +93,27 @@ main {
     height: 200pt;
 }
 
+.imageroundlink {
+    max-width: 100%;
+    height: 200pt;
+    transition: transform 0.3s ease; /* Smooth transition effect */
+}
+
+/* Hover state styles */
+.imageroundlink:hover {
+    transform: scale(1.1); /* Scale the image by 10% on hover */
+}
+
+.imagefull {
+    max-width: 100%;
+    height: 400pt;
+}
+
+.imagefull2 {
+    max-width: 100%;
+    height: 100%;
+}
+
 .twoColumn {
     display: flex;
     max-width: 1000px;
@@ -116,6 +137,7 @@ main {
 }
 .Center {
     text-align: center;
+    align-content: center;
 }
 .leftColumn {
     flex-basis: 48%; /* Adjust the width of the left column */
