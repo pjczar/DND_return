@@ -56,7 +56,7 @@ nav a:hover {
 }
 
 .title {
-    color: #3b1111;
+    color: #A83F3F;
     margin: 0;
     justify-self: center;
     font-size: 62pt;
@@ -64,14 +64,14 @@ nav a:hover {
 }
 
 .subtitle {
-    color: #3b1111;
+    color: #A83F3F;
     margin: 0;
     font-size: 42pt;
     font-family: 'Gabriola', 'Almendra', 'Ink Free',  'Frank Ruehl CLM', sans-serif;
 }
 
 .subtitle2 {
-    color: #3b1111;
+    color: #A83F3F;
     margin: 0;
     font-size: 22pt;
     font-family: 'Gabriola', 'Almendra', 'Ink Free',  'Frank Ruehl CLM', sans-serif;
